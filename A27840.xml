@@ -1,0 +1,840 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mercy &amp; judgment a sermon, preached at the assises held at Lincolne, July 15. 1678 / by Humfrey Babington ...</title>
+            <author>Babington, Humfrey, 1615-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 77 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27840</idno>
+            <idno type="STC">Wing B247</idno>
+            <idno type="STC">ESTC R16275</idno>
+            <idno type="EEBO-CITATION">12159639</idno>
+            <idno type="OCLC">ocm 12159639</idno>
+            <idno type="VID">55265</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27840)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55265)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 806:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mercy &amp; judgment a sermon, preached at the assises held at Lincolne, July 15. 1678 / by Humfrey Babington ...</title>
+                  <author>Babington, Humfrey, 1615-1691.</author>
+               </titleStmt>
+               <extent>[6], 31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Hayes ... for Henry Dickinson ...,</publisher>
+                  <pubPlace>Cambridge :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms CI, 1 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Judgment --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:55265:1"/>
+            <pb facs="tcp:55265:1" rendition="simple:additions"/>
+            <p>Mercy &amp; Judgment. A SERMON, Preached at the Aſsiſes held at <hi>LINCOLNE; July</hi> 15. 1678. By <hi>Humfrey Babington,</hi> D. D. Rector of <hi>Boothby-Painel</hi> in the County of <hi>LINCOLNE.</hi>
+            </p>
+            <p>
+               <hi>CAMBRIDGE,</hi> Printed by <hi>John Hayes,</hi> Printer to the Univerſity; for <hi>Henry Dickinſon,</hi> Book-ſeller in <hi>Cambridge.</hi> 1678.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:55265:2" rendition="simple:additions"/>
+            <p>Imprimatur.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Thomas Holbech</hi> Procan.</item>
+                     <item>
+                        <hi>John North.</hi>
+                     </item>
+                     <item>
+                        <hi>James Duport.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Minſhull.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:55265:2"/>
+            <head>To the Worſhipfull <hi>THOMAS HARINGTON</hi> of <hi>Boothby-Painel</hi> Eſq; High SHERIFF of the County of <hi>LINCOLNE.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HIS <hi>Sermon,</hi> which at firſt was the meer product of your earneſt deſires, and then (for the greateſt part of it,) the ſubject of your favourable and candid attention at <hi>Lin<g ref="char:EOLhyphen"/>colone;</hi> is now by your more earneſt impor<g ref="char:EOLhyphen"/>tunity, ſeconded with the powerfull requeſt of the Honourable and Reverend <hi>Judges;</hi> (though not without ſome timorous, and reaſonable reluctancy) preſented to your hand. When the Prophet <hi>Elijah</hi> was taken up into Heaven, there was a double portion of his Spirit conferred upon <hi>Eliſha,</hi> who ſuccceded him in his Prophetical Of<g ref="char:EOLhyphen"/>fice.
+<pb facs="tcp:55265:3"/>Had ſome ſuch (though much in<g ref="char:EOLhyphen"/>ferion) meaſure of the Learning, Piety, and Spirit of that <hi>Right Reverend Fa<g ref="char:EOLhyphen"/>ther in God, Robert, late Lord-Biſhop of Lincolne,</hi> been imparted to me, who, by his undeſerved favour and choice, had the honour to ſucceed him (when he was taken up into an higher Orb of the Church, and too ſoon after, from us, into Heaven) in his care and charge at <hi>Boothby-Painel;</hi> I ſhould then with more chearfulneſs and alacrity, have preſumed to publiſh this diſ<g ref="char:EOLhyphen"/>courſe; hoping it might find, a little of that acceptance and approbation; which his moſt excellent <hi>Sermons,</hi> have juſtly merited amongſt the beſt of thoſe, that have, for ſome years past, honoured and enriched our <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Nation. But indeed, <hi>Sir,</hi> I am as far ſhort of him in thoſe his real excellencies, as I am, in time and stature. A very stri<g ref="char:EOLhyphen"/>pling, and puny, to that Man of Parts and Learning. He left me his Rectory,
+<pb facs="tcp:55265:3"/>but not his Spirit, either of Teaching, or Ru<g ref="char:EOLhyphen"/>ling: And though I have his Table, Stool, and Candleſtick, yet if I thought my ſelf, one jot the more learned for them; I ſhould be no wiſer than he was, who (as <hi>Lucian</hi> reports) that he might be taken for an eminent Philoſopher, bought the Earthen Lamp of <hi>Epictetus,</hi> at no leſs rate or price than three hundred drachma's. I muſt there<g ref="char:EOLhyphen"/>fore acknowledge, I am as unworthy to write after him, as I was to ſucceed him; and beg your belief, that the great reverence I have for his Name and Memory, and thoſe many obliging encouragements, he vouch<g ref="char:EOLhyphen"/>ſafed me, whilſt he lived; have made me more unwilling to appear in public; least I ſhould derogate any thing, from that name and honour, he hath appropriated to <hi>Booth-by-Painel:</hi> Where you have an undoubted right, to ſucceed in the poſſeſsions and patro<g ref="char:EOLhyphen"/>nage, of your honoured <hi>Father,</hi> and that worſhipfull and excellent Perſon, <hi>Thomas
+<pb facs="tcp:55265:4"/>Harington Eſquire,</hi> your Religious <hi>Grandfather;</hi> as being the true Heir, not only of his Inheritance, but (which is far better) of his Pious conformity and Loyalty. To him Doctor <hi>Sanderſon</hi> dedicated ſome of his <hi>Sermons,</hi> and was moſt affectionalty eſteemed, by him, for them. What pro<g ref="char:EOLhyphen"/>tection and favour he vouchſafed <hi>to the Right Reverend</hi> my Predeceſſor; I have good hopes you will not deny to his hum<g ref="char:EOLhyphen"/>ble ſucceſſor, and that which he doth now preſent unto you; eſpecially ſince both are your own, by a double right or obligation, of deſire and ſervice. Not to detain you any longer with this mean addreſs. May the God of Grace and Mercy, repleniſh both your ſelf and your truly Pious and Virtuous Conſort; with all ſpiritual and temporal bleſsings in this life; and Crown you with thoſe which are eternal in the life to come, is the earneſt and daily prayer of,</p>
+            <closer>
+               <dateline>
+                  <hi>Trin. Coll.</hi> 
+                  <date>Sept. <hi>17. 1678.</hi>
+                  </date>
+               </dateline>
+               <salute>S<hi rend="sup">r</hi>,</salute>
+               <signed>
+                  <hi>Your moſt faithful and obliged Oratour,</hi> Humfrey Babington.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:55265:4"/>
+            <head>Mercy &amp; Judgment.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PSAL. CI.I.</hi>
+                  </bibl>
+                  <p>I will ſing of Mercy and Judgment, unto thee, O Lord will I ſing.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HIS <hi>Pſalm</hi> preſents you with a re<g ref="char:EOLhyphen"/>markable example, and pattern of a moſt excellent Heroical King and Governour.
+<note place="margin">Pſal. 78.70.</note> 
+               <hi>God had advanced his ſervant David from the ſheepfold to the Throne;</hi> changed his Crook into a Scepter; and he who before was but <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>a ſhepherd,</hi> or <hi>feeder of ſheep;</hi> was made <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>a feeder,</hi> or <hi>Ruler of his people.</hi> The ſame word ſignifies both.</p>
+            <p>He being thus highly exalted, makes it his buſineſs, faithfully and wiſely to exerciſe that power, which God had entruſted him with, for the glory of his great Name; the peace and happineſs of the Jewiſh State and Nation; and here we have a ſhort, but an exact eſſay, or commen<g ref="char:EOLhyphen"/>tary, of his good Rule and Government.</p>
+            <p>Now ſince he cannot well rule another, who is not Maſter of himſelf, nor Govern a City or Kingdom, who cannot order his own Family; King <hi>David</hi> ſhews us how skilful and well exerciſed he was in all theſe.</p>
+            <pb n="2" facs="tcp:55265:5"/>
+            <p>For here we have firſt his Ethics or Morals, as to himſelf.</p>
+            <p>Secondly, his Oeconomics, as to his Family.</p>
+            <p>Thirdly, his Politics, as to his Kingdom.</p>
+            <p>Laſtly, his ſingular piety; as that which compleats, per<g ref="char:EOLhyphen"/>fects, ſucceeds, and bleſſeth each of them.</p>
+            <p>Firſt, <milestone type="tcpmilestone" unit="unspecified" n="1"/> As to himſelf, he is careful that his behaviour be diſcreet and blameleſs, well knowing that God would come to viſit him, <hi>i. e.</hi> to defend and aſſiſt him, if he did well; but to judge and puniſh him if he did wickedly.
+<note place="margin">Verſ. 2.</note> 
+               <hi>When thou ſhalt come unto me, I will walk in my houſe with a perfect heart.</hi>
+            </p>
+            <p>
+               <hi>He will ſet no wicked thing,</hi>
+               <note place="margin">Verſ. 3.</note> or word of <hi>Belial before his eyes;</hi> that is, he will not do, nor ſpeak, nor ſo much as behold, any thing that is ſinful or profane.</p>
+            <p>He alſo hates <hi>the doing of them who turn aſide,</hi> that is, of ſuch who either are Apoſtates, and turn aſide from the ſervice and worſhip of the true God, to Idolatry; or elſe, of ſuch who decline from the rules of <hi>Mercy and Judgment,</hi> how plauſible ſoever their pretenſes be.</p>
+            <p>Then ſecondly as to his Family or Houſhold; <milestone type="tcpmilestone" unit="unspecified" n="2"/> He who hath a wicked pernicious head; a froward or crooked heart; a falſe, ſlanderous, detracting,
+<note n="a" place="margin">
+                  <hi>Chald.</hi> 
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Lingua tertia.</hi>
+               </note> 
+               <hi>three forked tongue;</hi> a proud and lofty look; a light-fingred, pilfering, deceitfull hand; ſuch an one he will either caſt out, or cut off from it.</p>
+            <p>Thirdly, <milestone type="tcpmilestone" unit="unspecified" n="3"/> Having thus ſetled, and well diſpoſed all things within doors, he then looks abroad, viſits and re<g ref="char:EOLhyphen"/>forms his greater Family the Kingdom; that ſo it might be happy under his Government.</p>
+            <p>
+               <hi>His eyes are upon the faithful of the land,</hi>
+               <note place="margin">Verſ. 6.</note> 
+               <hi>that they may dwell with him. He who walks in a perfect way ſhall ſerve him.</hi> And ſurely ſuch were moſt fit and likely to do him the beſt ſervice. Theſe he loves, honours, defends, and prefers to the higheſt places of buſineſs and truſt under him. But as for the wicked of the land, thoſe he will deſtroy
+<pb n="3" facs="tcp:55265:5"/>early, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>in the mornings;</hi> which may either relate,</p>
+            <p>Firſt, To the time when the Jews were wont to ſit in <hi>Judgment,</hi> and that was commonly <hi>in the morning;</hi>
+               <note place="margin">Jer. 21.12.</note> the fitteſt ſeaſon for a buſineſs of ſuch concern and moment: or,
+<note place="margin">
+                  <hi>R.M. Nachm. Gem. San.</hi> 
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note>
+            </p>
+            <p>Secondly, To the ſentence of the Judge, which ſhould proceed from proofs and teſtimonies, as clear as the day or morning light: or,</p>
+            <p>Laſtly, To the ſpeedy, and ſudden execution of their Malefactours, which was, for the moſt part, preſently after the ſentence of judgment, or condemnation was paſſed upon them.</p>
+            <p>Fourthly, As for King <hi>Davids</hi> piety, <milestone type="tcpmilestone" unit="unspecified" n="4"/> that breaths in every verſe of this <hi>Pſalm;</hi> that actuates and informs every part of his Government, whether at home or abroad, the holineſs and peace of his Family and people, was his chiefeſt care and deſign. Indeed piety is the beſt po<g ref="char:EOLhyphen"/>licy; the great preſerver, and ſureſt prop of all Govern<g ref="char:EOLhyphen"/>ments; without which, Policy will, at laſt, prove but dangerous craft; and power, degenerate into barbarous cruelty.</p>
+            <p>It was reported to the commendation of <hi>Themiſtoeles,</hi> that though he could not tune an inſtrument, yet he could well tune a Common-wealth. Of how much greater commendation muſt good <hi>King David</hi> be ac<g ref="char:EOLhyphen"/>counted worthy, who was ſo excellent at both? For ha<g ref="char:EOLhyphen"/>ving tuned the Common-wealth of Iſrael: He then tunes his Harp, and plays or deſcants the harmony of his Govern<g ref="char:EOLhyphen"/>ment upon it. <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>I will ſing of Mercy and Judgment, viz.</hi> of that <hi>Mercy and Judgment,</hi> with which he Governed his people. Indeed the <hi>Chaldee</hi> para<g ref="char:EOLhyphen"/>phraſe gives us another expoſition of this verſe, as though the <hi>Pſalmiſt</hi> had meditated, or ſung, of God's <hi>Mercy and Judgment</hi> towards himſelf: It ſpeaks thus,
+<note n="a" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Targ. &amp;c.</note> Whether thou deal'ſt <hi>Mercifully with me,</hi> or doſt <hi>Judgment with me,</hi> for all, <hi>I will ſing a Pſalm of praiſe before thee, O Lord.</hi>
+               <pb n="4" facs="tcp:55265:6"/>But this reading ſeems to be contrary to the ſcope of the <hi>Pſalm;</hi> and therefore is not followed, by many or the moſt Learned Commentators, whether Jews or Chriſtians, I have yet met with, who take this <hi>Pſalm,</hi> to be a ſong, or Me<g ref="char:EOLhyphen"/>ditation of holy <hi>David</hi>'s care and piety in Governing him<g ref="char:EOLhyphen"/>ſelf, his Family, and Kingdom, by enacting good Laws, and diſtributing rewards and puniſhments, with ſuch impartial Juſtice, that holineſs and virtue might be encouraged and advanced: but wickedneſs and vice, chaſtiſed and ſuppreſſed.</p>
+            <p>Before the uſe of Letters was found out, the ancient <hi>Grecks</hi> were wont to ſing their Laws; which therefore were called
+<note n="a" place="margin">
+                  <hi>Ariſt. Prob. Sect.</hi> 19. <hi>Quaeſt.</hi> 28. <hi>Nec ante can<g ref="char:EOLhyphen"/>tare deſtitit quàm inchoa<g ref="char:EOLhyphen"/>tum abſolveret</hi> 
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Suct.</hi> Nero. c. 20.</note> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as ſignifying both Laws and ſongs. So did the <hi>Bards</hi> and <hi>Druids,</hi> who were an ancient Order of Prieſts and Poets in this Nation. The Philoſopher gives us the reaſon of this uſe or cuſtom <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>that men might not forget them.</hi>
+            </p>
+            <p>Indeed Muſic and Song, are a moſt ſweet and ef<g ref="char:EOLhyphen"/>fectual way, of conveighing to the minds and memories of men, what they ſhould both underſtand, and practiſe. How often doth the Royal <hi>Pſalmiſt,</hi>
+               <note place="margin">Pſal. 20.7.22.27.31.97.12.78.7.35.105.5. Pſal. 106.7.</note> ſing of the divine Laws of God, in holy numbers; that they might be had in remembrance? How often doth his ſweet, and har<g ref="char:EOLhyphen"/>monious notes, charm and compoſe the wild affections of ſinfull men; and ſoften their hard and ſtubborn hearts, to a willing ſubmiſſion unto thoſe Laws.</p>
+            <p>With ſuch Muſic, or with ſuch a Song of <hi>Mercy and Judgment</hi> as this, (it may well be ſuppoſed) he had before quieted the diſtemper of King <hi>Saul;</hi> and diſpoſſeſſed him of his evil ſpirit: a ſpirit (as all ſuch wicked ones are) full of preſumption, and deſpair. <hi>Judgment,</hi> was fit to allay preſumption; and <hi>Mercy</hi> to drive away deſpair. <hi>I will ſing of Mercy and Judgment.</hi>
+            </p>
+            <pb n="5" facs="tcp:55265:6"/>
+            <p>This ſong conſiſts of two parts, the higheſt or Cantus; and the loweſt or Baſſus.</p>
+            <p>
+               <hi>Mercy</hi> is the higheſt part, for it reacheth, or riſeth, as high as heaven it ſelf.
+<note place="margin">1 King. 19.12. <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Sept.</hi>
+               </note> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>A ſmall ſoft voice,</hi> like to that by which God manifeſted himſelf to the Prophet <hi>Elijah.</hi>
+            </p>
+            <p>
+               <hi>Judgment</hi> is the loweſt part,
+<note place="margin">Pſal. 36.6.</note> for it is <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>a great deep;</hi> reaching as low as hell; and making a deep ſolemn ſound, like the Angels laſt Trumpet. <hi>David</hi> moſt skilfully accords theſe two together, and ſo makes perfect harmony.</p>
+            <p>Had he ſung only of <hi>Mercy,</hi> though the ditty might have been very ſweet and pleaſant, yet it would not have been full, and perfect.</p>
+            <p>Or had he ſung of <hi>Judgment</hi> alone, the ground (though ſolemn and grave) would have been but harſh and dolefull: <hi>Mercy</hi> ſlatts, and ſoftens <hi>Judgment;</hi> and <hi>Judgment,</hi> excites, and ſharpens <hi>Mercy.</hi> Theſe ſharps and flatts make the beſt muſic, the excellent compoſition of both which in the Text will be well worth your attention.</p>
+            <p>
+               <hi>Mercy, and Judgment;</hi> are the harmony of the Uni<g ref="char:EOLhyphen"/>verſs; the two Poles upon which the world turns; and thoſe muſical ſphears, which tune and time the praiſes of the Almighty Creator, who made all things
+<note n="a" place="margin">Wiſd. 11.20.</note> in <hi>number weight and meaſure;</hi> the three well known proportions of order, pulchritude and harmony.</p>
+            <p>
+               <hi>Mercy and Judgment,</hi> are the brighteſt conſtellations in the firmament of dominion and Government; The ſtability and ſtrength of <hi>David</hi>'s Perſon and Throne.
+<note n="b" place="margin">1 King. 1.44. 2 Sam. 8.18. <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Libe<g ref="char:EOLhyphen"/>ratores, à</hi> 
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Exci<g ref="char:EOLhyphen"/>ſores, à</hi> 
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Burgenſ.</note> The <hi>Pele<g ref="char:EOLhyphen"/>thites</hi> and <hi>Cherethites</hi> which were appointed for his Royal Guard. The Office of the <hi>Pelethites,</hi> as may be preſumed from their names, was to defend and free the innocent; But the Office of <hi>Cherethites,</hi> to cut off, and deſtroy the guilty.</p>
+            <pb n="6" facs="tcp:55265:7"/>
+            <p>
+               <hi>Mercy and Judgment</hi> the two Teſtaments; mount <hi>Sion,</hi> and mount <hi>Sinai;</hi> mount <hi>Gerizim,</hi> and mount <hi>Ebal;</hi> the one for bleſſing and the other for curſing.</p>
+            <p>
+               <hi>Mercy and Judgment,</hi>
+               <note place="margin">Zech. 11.7.</note> 
+               <hi>Zechariah</hi>'s <hi>two ſtaves, Beauty</hi> and <hi>Bands,</hi> the one to ſupport and comfort, the other to chaſtiſe and puniſh.</p>
+            <p>
+               <hi>Mercy and Judgment;</hi>
+               <note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Nazian.</hi>
+               </note> that admirable pair of Siſter virtues; which are as benign, and propitious to a good Ruler; as <hi>Caſtor</hi> and <hi>Pollux</hi> (thoſe twin-brother Stars) are feigned to be to a fearfull Mariner: who when they ap<g ref="char:EOLhyphen"/>pear together, betoken a ſpeedy and proſperous voyage; but when they come ſingle, portend nothing but ſtorms and loſs: ſo <hi>Mercy and Judgment,</hi> when they go hand in hand together, betoken a good and happy government: for when <hi>Mercy and truth meet together,</hi>
+               <note place="margin">Pſal. 85.10.</note> then <hi>Righteouſneſs and peace kiſs each other.</hi> But where they are alone, or ſingle; either only <hi>Mercy,</hi> or only <hi>Judgment;</hi> there is nothing but confuſion and miſchief.</p>
+            <p>
+               <hi>Mercy</hi> without <hi>Judgment</hi> is <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> indeed; but in the ſecond or worſe ſignification, that is reproach or injury; or (if you will) fooliſh pity, which deſtroys more than it ſaves,
+<note n="a" place="margin">
+                  <hi>Sen. de Clem.</hi> Lib. 1. c. 2.</note> 
+               <hi>Omnibus ignoſcere, crudelius eſt quàm nulli. And Judgment without Mercy, is no better than inhuman, and brutiſhcruelty.</hi>
+            </p>
+            <p>The Jews have well obſerved, that God governs the world by a twofold <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or propriety,
+<note place="margin">Targum.</note> that is to ſay <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>a propriety of Mercy,</hi> and <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>a propriety of Judgment.</hi> Theſe God hath joyned toge<g ref="char:EOLhyphen"/>ther in the Government of the world; and therefore let no man ſeparate them. His government is the beſt, which <hi>David</hi> was reſolved to imitate; and how exact He was in the compoſition of <hi>Mercy and Judgment,</hi> for the happineſs and proſperity of his Kingdom, is ſufficiently made known unto us, in holy Writ.</p>
+            <p>Yet there is one <hi>Nich. Matchiavell,</hi> that <hi>Florentine</hi> Politi<g ref="char:EOLhyphen"/>tian, who in his Book <hi>Il Principe,</hi> repreſents Holy <hi>David,</hi>
+               <pb n="7" facs="tcp:55265:7"/>as a Tyrant, and compares him with <hi>Philip</hi> of <hi>Macedon,</hi> who was no better. For which prophane boldneſs, (amongſt other dangerous and immemorable errours) he is (not without cauſe) cenſured by <hi>Lorinus, Fitz-herbert,</hi> and other Writers. But if I do not miſtake the Polititian, he rather acquaints us, what uſe <hi>Caeſar Borgia</hi> made of <hi>David</hi>'s failings, to palliate and excuſe his monſtrous and abomi<g ref="char:EOLhyphen"/>nable villanies; than accuſeth that good King, of Tyranny or Miſgovernment.</p>
+            <p>'Tis well known how apt wicked men are to draw the failings of God's children into example and practiſe, but they will not imitate them in their repentance.
+<note place="margin">
+                  <hi>Ambr. Apol. David.</hi> Lib. 1. c. 4.</note> 
+               <hi>Peccavit</hi> David <hi>quod ſolent Reges, ſed poenitentiam geſsit, flevit, quod non ſolent Reges,</hi> &amp;c. <hi>If</hi> David <hi>ſinned like a King, he alſo repented like a King.</hi> Great crimes require great con<g ref="char:EOLhyphen"/>trition, a troubled ſpirit, a broken heart, which holy <hi>David</hi> is moſt remarkable for; witneſs <hi>Pſalm</hi> 51; which he com<g ref="char:EOLhyphen"/>poſed that it might remain a public and perpetual teſti<g ref="char:EOLhyphen"/>mony of his true, and unfeigned repentance.</p>
+            <p>And let all the <hi>Caeſars</hi> of the world make what uſe they can of his Errours, he hath ſet them here ſuch a pattern of good, and wiſe Government; that did they (or could they) but imitate him, they would not be <hi>Borgias,</hi> i. e. <hi>Tyrants.</hi>
+            </p>
+            <p>As for theſe words of the Text, <hi>Mercy and Judgment;</hi> they muſt neither be divided, nor ſeparated, as you have heard. I ſhall therefore only treat of them, as the har<g ref="char:EOLhyphen"/>monious parts of King <hi>David</hi>'s Government; and a moſt proper ſubject for this occaſion.</p>
+            <p>Firſt of <hi>Mercy,</hi> which indeed deſerves the firſt place; be<g ref="char:EOLhyphen"/>cauſe there is no virtue more noble, or more becoming the nature of Man, than <hi>Mercy;</hi>
+               <note n="a" place="margin">Nec uilâ re propiùs ho<g ref="char:EOLhyphen"/>mines ad Deum acce<g ref="char:EOLhyphen"/>dunt quàm ſa<g ref="char:EOLhyphen"/>lute hominibus dandâ. Cic. pro Ligar.</note> neither doth he reſemble God himſelf, in any thing more, than by ſhewing <hi>Mercy,</hi> and pity.
+<note n="b" place="margin">Luk. 6.36.</note> 
+               <hi>Be ye mercifull as your heavenly Father alſo is mer<g ref="char:EOLhyphen"/>cifull.</hi>
+            </p>
+            <pb n="8" facs="tcp:55265:8"/>
+            <p>
+               <hi>God is good unto all,
+<note place="margin">Pſal. 145.9.</note> and his tender Mercies are over all his works:</hi> Now <hi>Judgment</hi> is one of them; though it be his ſtrange work and his ſtrange act,
+<note place="margin">Iſa. 28.21.</note> as the Prophet <hi>Iſaiah</hi> em<g ref="char:EOLhyphen"/>phatically notes. By which we may obſerve, that <hi>Judg<g ref="char:EOLhyphen"/>ment</hi> is <hi>opus alienum à naturâ ſuâ, a work not agreeable with his nature;
+<note place="margin">Lam. 3.33. S. Jam. 2.13.</note> that he doth not afflict willingly, nor grieve the children of men.</hi> And therefore <hi>Mercy</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>rejoyceth over Judgment,</hi> like a conquerour; leads <hi>Judgment</hi> captive, which follows her triumphant Chariot, bound with Adamantine Chains, diſarm'd both of Lance, and Sword.</p>
+            <p>As <hi>Mercy</hi> hath the preheminence, the firſt and chiefeſt place, amongſt the works, and attributes of God; ſo ought it to have the firſt, and chiefeſt place, in the nature, and actions of men; Eſpecially in the great affairs and concerns of the chief Magiſtrate, who is God's Repreſentative. He (if any) ſhould be plenteous in <hi>Mercy;</hi> by which he will not only gain, but force the love and obedience of his ſubjects; and not ſo much rule over them, as in them, that is, in their hearts;
+<note n="a" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Bias.</hi>
+               </note> and <hi>they will not ſo much fear him, as fear for him;</hi> and be in pain, leaſt ſome unhappy miſchief or diſaſter ſhould ſnatch him away from their Go<g ref="char:EOLhyphen"/>vernment. For what Loyal ſubject, would not much ra<g ref="char:EOLhyphen"/>ther ſpend his deareſt bloud and life; than that his mer<g ref="char:EOLhyphen"/>ciſull and gracious Prince ſhould be in danger, or miſcarry? Further, by <hi>Mercy</hi> he obtains true honour, and glory; and provides for his own ſafety, and the ſecurity of his people.</p>
+            <p>
+               <hi>Mercy</hi> was accounted a Goddeſs at <hi>Athens,</hi> had her altar and image; challenged the knee, (as dedicated unto her) which ſhe vouchſafed her ſuppliants to touch.
+<note n="b" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Phocion.</hi>
+               </note> And there it was accounted as great ſacriledge, to take <hi>Mercy</hi> from hu<g ref="char:EOLhyphen"/>mane nature; as to ſteal an Altar from the Temple.</p>
+            <p>It was therefore a ſtrange ill natured principle, or paradox of the <hi>Stoics;</hi>
+               <note n="c" place="margin">
+                  <hi>Diog. Laert. Zeno.</hi> 
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>ibid.</hi>
+               </note> who taught <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>that mercifull men were fools; that it is difficult to be mercifull
+<pb n="9" facs="tcp:55265:8"/>and wiſe;</hi>
+               <note n="a" place="margin">
+                  <hi>Neminent miſericordem eſſe niſi ſtul<g ref="char:EOLhyphen"/>tum &amp; levem.</hi> Cic <hi>pro</hi> Mur.</note> 
+               <hi>that Mercy is but the imperfection of a weak mind.</hi> They grant indeed, that it is the part of a wiſe man to ſuccour and relieve the neceſſities and indigencies of thoſe who are in want; but at no hand to pity them, becauſe (forſooth) he muſt not <hi>ſuffer any per<g ref="char:EOLhyphen"/>turbation, or trouble in his affections.</hi> But <hi>Cicero</hi> in<g ref="char:EOLhyphen"/>forms us that Philoſophers of more moderate principles, than the <hi>Stoics</hi> were, and as wiſe, did acknowledge, <hi>a good man ſhould be both mercifull and gracious;</hi> and that he who is without <hi>pity</hi> and <hi>compaſsion,</hi> deſerves not the name of a man, but a Monſter; and is no better than ſome wild, or ravenous Brute. However, Stoiciſme muſt not be the Rule or Meaſure of Chriſtianity; nor are we to learn, or judge of <hi>Mercy,</hi> from
+<note n="b" place="margin">
+                  <hi>Illud ſatis eſt ad coarguen<g ref="char:EOLhyphen"/>dum hominis errorem quod inter vitia &amp; morbos miſe<g ref="char:EOLhyphen"/>ricordiam po<g ref="char:EOLhyphen"/>ſuit.</hi> Lact. Inſt. Lib, 3. c. 22.</note> 
+               <hi>Zeno's Porch,</hi> but from <hi>Chriſt's School.</hi> A Chriſtian without Bowels is a con<g ref="char:EOLhyphen"/>tradiction in the <hi>Adject.</hi>
+               <note n="†" place="margin">Coll. 3.12.</note> We are commanded to <hi>put on bowels of mercy,</hi> theſe we are to put on, and wear, as our richeſt robes, and ornaments. Our Bleſſed Saviour took our nature upon him, that he might be ſenſible of our in<g ref="char:EOLhyphen"/>firmities, and a compaſſionate Mediator. How mercifull he was when he eſpouſed our miſery, and ſatisfied for our ſins; is beyond all example, or imitation. Yet he hath left us a Precept and Pattern,
+<note place="margin">Matth. 5.7.</note> which we ſhould diligently ex<g ref="char:EOLhyphen"/>preſs, and follow; and hath aſſured us, <hi>that if we be mer<g ref="char:EOLhyphen"/>cifnll we ſhall obtain mercy;</hi>
+               <note place="margin">Jam. 2.12.</note> 
+               <hi>but he ſhall have judgment without mercy who ſhewed no mercy.</hi>
+            </p>
+            <p>This word <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifies both piety, and pity. <hi>Mercy</hi> which conſiſts of both, is a ſacred affection and compaſſion of the ſoul, whereby we are moved to do good: Or elſe it may be defined,
+<note n="c" place="margin">Clem. Alex. Strom. 2. <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Ariſt. Rhet.</hi> Lib. 2. c. 10.</note> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>a ſorrow for a perſon who ſuffers wrongfully:</hi> ſuffering innocency is the proper object of <hi>mercy;</hi> for no man <hi>pities</hi> a Traitor, or Murderer, when he is deſervedly puniſhed.</p>
+            <pb n="10" facs="tcp:55265:9"/>
+            <p>Saint <hi>Auguſt</hi> thus defines it.
+<note n="a" place="margin">De Civit. Dei. Lib. 9. Cap. 5. <hi>Miſericordia eſt aegritudo ex miſcriâ al<g ref="char:EOLhyphen"/>terius, injuriâ laborantis.</hi> Cic. Tuſ. 4.</note> 
+               <hi>Miſericordia eſt alienae miſeriae in corde noſtro compaſsio. Mercy is that compaſ<g ref="char:EOLhyphen"/>ſion, we have in our hearts for another's miſery.</hi>
+            </p>
+            <p>Thus have we briefly ſeen the nature of this excellent virtue, deſcribed unto us; and are informed how it ſoftens and calms our ſpirits, and tempers them, to a compaſ<g ref="char:EOLhyphen"/>ſionate ſenſe and feeling of our brethrens miſery.</p>
+            <p>But as <hi>mercy</hi> reſpects the publick, and is concern'd with the great affaires of the ſupreme Magiſtrate in his Government, ſo it exerts and ſhews it ſelf in theſe fol<g ref="char:EOLhyphen"/>lowing particulars.</p>
+            <p>Firſt in conſtituting, <milestone type="tcpmilestone" unit="unspecified" n="1"/> and making, good and wholſom Laws.</p>
+            <p>Nothing is more neceſſary in the world than good Laws.
+<note place="margin">Deut. 33.4.</note> They are the <hi>inheritance</hi> of God's people. <hi>Moſes commanded a law, the inheritance,</hi> or poſſeſſion <hi>of the con<g ref="char:EOLhyphen"/>gregation of Jacob.</hi> An inheritance is that which men commonly much eſteem and value; and ſo they ſhould good Laws. Now if the Law be our inheritance? then as good no inheritance as no Law: For what will our inheritance profit us, when there is no Law to ſecure us in the poſſeſſion of it?</p>
+            <p>
+               <hi>Mercy</hi> was the firſt, and beſt Law-maker; for the Law of nature, antecedent to all poſitive Laws, was made by <hi>mercy;</hi> and then <hi>juſtice</hi> and <hi>judgment</hi> followed, as ne<g ref="char:EOLhyphen"/>ceſſary, for the due execution of that Law.</p>
+            <p>The deſign of <hi>mercy</hi> in making Laws, is the common good of mankind; not only to defend the bodies and eſtates of men, from deſtruction, plunder and violence, but their minds and ſouls from ignorance, errour, atheiſm, evill cuſtoms, debaucheries, and all prophaneſs. <hi>Mercy</hi>'s Law, will teach the ignorant; reduce the erroneous; ad<g ref="char:EOLhyphen"/>moniſh the negligent; quicken the remiſs, and ſlow; reſolve the doubtfull, and ſcrupulous; ſtrengthen the weak; and confirm the ſtrong.</p>
+            <pb n="11" facs="tcp:55265:9"/>
+            <p>Then is a Magiſtrate mercifull, when he enacts good Laws, for the maintenance of true Religion and virtue; <hi>when he honours them who honour God, and whom God will honour;</hi> when he provides, and allows of ſuch means and helps, as are neceſſary for the encreaſe, and encourage<g ref="char:EOLhyphen"/>ment, of faithfull and able men, to do him ſervice both in Church and State. This <hi>mercy</hi> will certainly, ſup<g ref="char:EOLhyphen"/>port, and eſtabliſh his Throne, make his Government proſperous, and preſerve his people in peace and ſafety.</p>
+            <p>Secondly, <hi>Mercy</hi> takes care that her Laws be but few, <milestone type="tcpmilestone" unit="unspecified" n="2"/> or (at moſt) not too many.</p>
+            <p>Laws are the Medicines of a State; the fewer, and ſim<g ref="char:EOLhyphen"/>pler (I mean without mixture) ſuch medicines are, the bet<g ref="char:EOLhyphen"/>ter. There is much danger (you know) <hi>in too much Phyſic,</hi> and ſo there is <hi>in too many Laws.</hi> The whole Moral-law is contained in Ten Precepts; and thoſe Ten are by our Saviour reduced to Two;
+<note n="a" place="margin">Matth. 22.37, 38.</note> 
+               <hi>the love of God, and the love of our Neighbour. Zalcucus</hi> the <hi>Locrian</hi> Lawgiver (as <hi>Strabo</hi> writes) made but few laws; which his ſucceſſors (either by too much ſubtilty, or folly,) augmented to ſuch a mul<g ref="char:EOLhyphen"/>titude, <hi>that they became more numerous than good;</hi> ſo ma<g ref="char:EOLhyphen"/>ny, that they could not be read; and ſo obſcure, that they could not be underſtood.</p>
+            <p>
+               <note n="a" place="margin">
+                  <p>
+                     <hi>Corruptiſſimâ Repub. pluri<g ref="char:EOLhyphen"/>mae Leges.</hi> Tac. An. 4. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Plato.</p>
+                  <p>
+                     <hi>Ut olim fla<g ref="char:EOLhyphen"/>gitiis, ſic nunc Legibus labo<g ref="char:EOLhyphen"/>rari.</hi> An. 4.</p>
+               </note> Such a ſuperfoetation of Laws is an evident ſign of ſome corrupt diſtempers and manners in the body politic. Too many Laws, beget too many Sutes, Actions, Pleadings; with much ſtrife, debate, contention. For what Cauſe can be ſo clear, and good; which may not be obſcured, and baffled by the claſhing, and interfering of divers Laws?</p>
+            <p>This made <hi>Tacitus</hi> complain, that whereas <hi>Rome</hi> (not long before his time) <hi>did abound with many wicked and deteſtable vices; it was then peſtered with more miſ<g ref="char:EOLhyphen"/>chievous and unneceſſary Laws;</hi> which proved a remedy far worſe than the diſeaſe. Therefore the Magiſtrate
+<pb n="12" facs="tcp:55265:10"/>ſhould be adviſed to take care, leaſt his Government which is eſtabliſhed by Laws, be not overthrown, by their unreaſonable number, or multitude.</p>
+            <p>Thirdly, <hi>Mercy</hi> endeavours to cut off, and ſhorten all tedious long-delayed Sutes, and Pleadings. Theſe are the reproaches of all Laws. <hi>Short injuſtice is better than long juſtice,</hi> ſaith the <hi>Perſian</hi> Proverb. And a poor Client is more injured by the ſubtil delays, and falſhood of a perfidious Advocate; than by the oppreſſion, or malice of his cruel Adverſary. There is nothing now more common than to ſpin out Cauſes, and to fruſtrate the juſt proceedings of the Law; but all ſuch delays are no better than <hi>Conceſſum latrocinium.</hi>
+               <note place="margin">Lipſ. Pol.</note> And I pray, which are the worſt theeves? Thoſe that rob a Traveller by the King's high-way? Or they who pervert the Cauſe of their Clients before the Judge; and pick their pockets at the King's Bar and Tribunal?</p>
+            <p>Fourthly, <hi>Mercy</hi> deſigns, by her Laws to defend, and relieve the oppreſſed; to vindicate the righteous innocent perſon, from the power, and malice of his unjuſt Adver<g ref="char:EOLhyphen"/>ſary. By the wiſe care and providence of Almighty God, <hi>Mercy</hi> has not wanted in all ages, ſome excellent <hi>Oratours</hi> and <hi>Advocates</hi> to plead and defend the Cauſe of her in<g ref="char:EOLhyphen"/>nocent Clients. How famous were both <hi>Athens</hi> and <hi>Rome,</hi> for ſuch Oracles of Law and Juſtice?</p>
+            <p>And ſtill <hi>mercy</hi> takes care, and endeavours (eſpecially in all Chriſtian States) that her Magiſtrates, and Judges, ſhould be men of ability and truth,
+<note place="margin">Exod. 18.21.</note> 
+               <hi>fearing God and hating Covetouſneſs.</hi> Her <hi>Patrons</hi> and <hi>Advocates,</hi> men of honour and integrity, as well as Learning and Elo<g ref="char:EOLhyphen"/>quence. That her <hi>Witneſſes</hi> be of known fidelity and juſtice; without all ſuſpition of malice, envy, or parti<g ref="char:EOLhyphen"/>ality:
+<note place="margin">Prov. 19.28.</note> for <hi>an ungodly witneſs ſcorneth judgment:</hi> That her <hi>Juries</hi> be diſcreet, mercifull men; well inſtructed, and skilfull in the Laws; and not made up of ſuch, as can
+<pb n="13" facs="tcp:55265:10"/>hardly tell the difference, or meaning of theſe two words, Plaintiff and Defendant. If the Cauſe of a perſecuted in<g ref="char:EOLhyphen"/>nocent, be not examined, and determined by ſuch worthy and judicious Patriots, men ſo well qualified, and diſpoſed as theſe; it may ſoon miſcarry.</p>
+            <p>But the God of <hi>mercy</hi> be thanked; neither <hi>Athens</hi> nor <hi>Rome</hi> in the height of all their flouriſh; could boaſt of more able, generous, upright, and eloquent, Judges, Orators, and Lawyers; than our Nation doth at this pre<g ref="char:EOLhyphen"/>ſent enjoy: who can, and do daily ſnatch the innocent Prey, from the devouring jaws of a powerfull Adverſary, and may they ſtill long be continued unto us.</p>
+            <p>Fifthly, <hi>Mercy</hi> will (if need be) mitigate the rigor, of ſome ſevere, yet neceſſary, laws. 'Tis reaſon that in ſome particular caſes, the Law ſhould be ſevere;
+<note place="margin">1 Tim. 1.9.10, &amp;c.</note> 
+               <hi>becauſe it was not made for the righteous man, but for the lawleſs and diſobedient, for the ungodly and for ſinners, for unholy and prophane, for murderers of fathers, and murderers of mothers, for manſlayers,</hi> and ſuch like, as the Apoſtle there further mentions. Now what man can deny but that ſuch Offenders, as theſe ſhould ſuffer condigne puniſhment? Or what <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, can be hoped for, by ſuch lawleſs Criminals? Yet becauſe that <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <hi>ſummum jus,</hi> that extremity, or rigor of the Law, is not always neceſſary, no, nor ſometimes ſafe; and becauſe there is no <hi>Tenedia bipennis</hi> in <hi>mercy</hi>'s court; therefore <hi>mercy</hi> makes interceſſion, and deprecates;</p>
+            <p>Firſt, That the ſentence of the Law be not too
+<note n="a" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Eſtote tardi in judicio</hi> Per. Avoth. c. 1.</note> ſodain<g ref="char:EOLhyphen"/>ly executed upon ſuch Malefactors, <hi>Mercy</hi> would have all juſtice done unto them, before it be done upon them. And though the Law may require ſpeedy execution, yet <hi>mercy</hi> pleads;
+<note n="b" place="margin">
+                  <hi>Nulla un<g ref="char:EOLhyphen"/>quam de morte homi<g ref="char:EOLhyphen"/>nis cunctatio longa.</hi> Juven.</note> that the Magiſtrate in ſuch a buſineſs of moment, as the death of a man is, ſhould not fear the blame, of con<g ref="char:EOLhyphen"/>venient, or reaſonable ſlackneſs. That although the <hi>bodies</hi> of ſuch Criminals be ſentenced, and conſigned, to a deſer<g ref="char:EOLhyphen"/>ved
+<pb n="14" facs="tcp:55265:11"/>puniſhment; yet ſome care ought to be taken for their <hi>ſouls;</hi> and ſome convenient time allowed them for ghoſtly adviſe, and counſel, that ſo (if poſſible) they may be brought to a due, and true ſenſe of their ſin and miſery; and receive that charitable Office, which the Church has appointed for perſons in their condition.</p>
+            <p>Secondly, <hi>Mercy</hi> mediates, that the ſentence of con<g ref="char:EOLhyphen"/>demnation may be mitigated, as to the kind, or manner of death which the Malefactor is to ſuffer. And it is ſome <hi>mercy</hi> if it be neither ſo painfull, or ſhamefull, as the Ma<g ref="char:EOLhyphen"/>lefactor deſerves. Thus <hi>mercy</hi> would mitigate the rigor of ſome ſevere, yet neceſſary Laws.</p>
+            <p>Laſtly, <hi>Mercy</hi> deſigns not the puniſhment, but the reformation of Offenders. All penal cenſures are either</p>
+            <p>Firſt, For the amendment of ſuch as tranſgreſs the Law. Or,</p>
+            <p>Secondly, For their juſt ſatisfaction, and reparation, who are injured. Or,</p>
+            <p>Thirdly, For a diſcouraging example to others, leſt they fall into the ſame condemnation.</p>
+            <p>Laſtly, For the peace, and utility of the Nation. Now if all theſe may be effected without the death of the Ma<g ref="char:EOLhyphen"/>lefactor, <hi>mercy</hi> has obtained her deſired end.</p>
+            <p>Therefore <hi>mercy</hi> abhors to be like <hi>Abimelech</hi> in making Bramble, and ſcratching Laws, to rend and tear the fleſh of her ſubjects; or with <hi>Draco</hi> to write her Laws in bloud; or with <hi>Domitian</hi> to weave ſubtil-poyſonous-ſpider laws, to catch only poor ſilly flies, (the weaker and more feeble ſort of Offenders) and then to ſtab, and tyrannize over them, like an Emperor: for which noble exploit, he deſerved (no doubt) as famous a Triumph at <hi>Rome;</hi> as his predeceſſor <hi>Caligula</hi> required, for conquering the <hi>Belgic Cockles. Mercy</hi> hates the
+<note n="*" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Suet. Calig.</hi> c. 30.</note> 
+               <hi>Barbarous cruelty</hi> of that bloudy Monſter, who in puniſhing his Offenders, would have them ſo tormented, or handled, <hi>Ut ſentirent ſe mori,
+<pb n="15" facs="tcp:55265:11"/>That they might feel their deaths.</hi> To delight in ſuch in<g ref="char:EOLhyphen"/>humane butcheries, is abominable; and he is no better than <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>a Cannibal Tyrant,</hi>
+               <note place="margin">
+                  <hi>Hom. Il.</hi> 
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> who either acts, or commands them.</p>
+            <p>'Tis the chief end of <hi>mercy</hi>'s Laws to deſtroy vices, but preſerve men. In doing this the Magiſtrate imitates God himſelf: <hi>who delights not in the death of a ſinner,</hi>
+               <note place="margin">Ezech. 33.11.</note> 
+               <hi>but rather that he ſhould turn from his wickedneſs and live.</hi> There<g ref="char:EOLhyphen"/>fore <hi>mercy</hi> would incline the Magiſtrate to a reaſonable, judicious Lenity; that ſo vice may be corrected, but life preſerved.</p>
+            <p>Yet notwithſtanding; if after all her indulgence and pity; thoſe <hi>Cuncta prius tentanda; ſhe finds ſome Malefactors to be incorrigible and paſt cure;</hi> then
+<q>
+                  <l>— <hi>Immedicabile vulnus,</hi>
+                     <note place="margin">
+                        <hi>Ovid. Met.</hi> Lib. 1.</note>
+                  </l>
+                  <l>
+                     <hi>Enſe recidendum eſt, nè pars ſincera trahatur.</hi>
+                  </l>
+               </q> ſhe compaſſionatly grants they ſhould be cut off: leſt the peace, and ſafety of her innocent favourit's ſhould be endangered.</p>
+            <p>Which brings me to the ſecond or loweſt part of King <hi>David</hi>'s Song, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> And <hi>Judgment,</hi> which I call the <hi>Baſſo</hi> or <hi>ground</hi> of his well ordered Government. For though the Song of <hi>Mercy</hi> may be ſweet and pleaſant, yet there can be no good deſcant without <hi>Judgment.</hi> This compoſed with <hi>mercy,</hi> makes the harmony of his government compleat, and perfect.</p>
+            <p>In treating of this part of <hi>David</hi>'s Song, I ſhall briefly preſent theſe particulars to your conſideration.</p>
+            <p>Firſt, The meaning, or ſignification of this word <hi>Judgment.</hi>
+            </p>
+            <p>Secondly, The great neceſſity of it, in all Governments.</p>
+            <p>Thirdly, What is required to the due Adminiſtration, or Execution of this <hi>judgment.</hi>
+            </p>
+            <p>Fourthly, Thoſe great bleſſings and benefits, which will certainly follow the due Adminiſtration, and Exe<g ref="char:EOLhyphen"/>cution of it.</p>
+            <pb n="16" facs="tcp:55265:12"/>
+            <p>Firſt, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Judgment</hi> ſignifies that Government, Rule, Authority, and Power, with which the ſuprem Ma<g ref="char:EOLhyphen"/>giſtrate is inveſted, or inaugurated. Hence the firſt Rulers amongſt the Jews (next after their Lawgiver <hi>Moſes</hi> and his ſucceſſour, <hi>Joſhuah</hi>) were called
+<note n="a" place="margin">
+                  <hi>A</hi> 
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> from which root, the ancient <hi>Punic</hi> word <hi>Sufes</hi> the chief Magi<g ref="char:EOLhyphen"/>ſtrate in <hi>Car<g ref="char:EOLhyphen"/>thage</hi> is alſo derived. <hi>Voſ. Etym.</hi>
+               </note> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Judges. <hi>Judgment</hi> has it's Thrones,
+<note n="b" place="margin">Pſal. 122.5.</note> even <hi>the thrones of the houſe of David;</hi> now
+<note n="c" place="margin">2 Sam. 8.16.</note> 
+               <hi>David reigned over all Iſrael; and executed judgment and juſtice to all his people.</hi> So we read of <hi>Meſsiah</hi> the ſon of <hi>David.</hi>
+               <note n="d" place="margin">S<hi rend="sup">t</hi> Joh. 5.22, 27.</note> 
+               <hi>The Father judgeth no man, but hath committed all judgment to the Son; and hath given him authority to execute judgment, becauſe he is the Son of man.</hi> This is called <hi>judgment</hi> of juriſdiction, that is, that authority by which men are governed.</p>
+            <p>Secondly, It ſignifies that Wiſdom and Knowledge by which the Magiſtrate diſcerns, and determins that which is juſt, or unjuſt.
+<note n="e" place="margin">
+                  <hi>Ariſt. Eth.</hi> Lib. 4.</note> That <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Science,</hi> or <hi>Skill,</hi> not only of making, but interpreting Laws.
+<note place="margin">Pſal. 72.1.</note> This is that <hi>judgment</hi> which <hi>David</hi> prays for his Son <hi>Solomon. Give the king thy judgments O Lord, and thy righteouſneſs to the kings ſon;</hi> that is,
+<note n="f" place="margin">D<hi rend="sup">r</hi> 
+                  <hi>Ham.</hi>
+               </note> 
+               <hi>O Lord, I beſeech thee, to poure out upon</hi> Solomon <hi>my Son, all the royal virtues, and skill in Go<g ref="char:EOLhyphen"/>vernment, and all manner of juſtice and goodneſs, in the adminiſtration of ſo ſublime an Office.</hi>
+               <note place="margin">1 Kings 3, 9.</note> And that which <hi>Solomon</hi> prays for himſelf. <hi>Give thy ſervant</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>an hearing obedient heart,</hi> (which from the <hi>Chaldee</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> our Tranſlation renders an <hi>underſtanding</hi> heart) <hi>to judge thy people,</hi>
+               <note place="margin">Iſa. 28.5.6.</note> 
+               <hi>and to diſcern between good and bad.</hi> This un<g ref="char:EOLhyphen"/>derſtanding heart is called the ſpirit of <hi>judgment. In that day the Lord ſhall be for a ſpirit of judgment to him that ſitteth in judgment.</hi>
+            </p>
+            <p>Thirdly, It ſignifies any Law, Decree, or Sanction, which is made by the ſupreme Magiſtrate; and which is the rule, and meaſure of the obedience of his ſubjects. <hi>Theſe are the judgments thou ſhalt ſet before them;</hi>
+               <note place="margin">Exod. 21.1.</note> the <hi>Statutes, and Judgments I have commanded my people.</hi>
+            </p>
+            <pb n="17" facs="tcp:55265:12"/>
+            <p>Fourthly, <hi>Judgment</hi> ſignifies any <hi>judicial cauſe, con<g ref="char:EOLhyphen"/>troverſie,</hi> or <hi>matter;</hi> that is brought before the Magi<g ref="char:EOLhyphen"/>ſtrate. <hi>Thou ſhalt not pervert the judgment of the ſtranger,</hi>
+               <note place="margin">Deut. 24.17.</note> 
+               <hi>and the fatherleſs,</hi> that is, the cauſe of the ſtranger and the fatherleſs.
+<note place="margin">Deut. 27.19. Pſal. 140.12.</note> 
+               <hi>Curſed is he that perverteth the judgment of the ſtranger and fatherleſs: I know the Lord will maintain the judgment of the afflicted</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>the cauſe of the poor.</hi>
+            </p>
+            <p>Fifthly, It ſignifieth that <hi>definitive ſentence,</hi> or <hi>award,</hi> which the Magiſtrate paſſeth upon a matter, or cauſe ſo brought before him.
+<note place="margin">1 Kings 3.28.</note> 
+               <hi>And all Iſrael heard of the judg<g ref="char:EOLhyphen"/>ment,</hi> i.e. the ſentence, <hi>which the king had judged; and they feared the king, for they ſaw that the wiſdom of God was in him to do judgment.</hi>
+            </p>
+            <p>Laſtly, It ſignifies the <hi>due execution</hi> of that ſentence ſo given; whether it be for the <hi>rewarding</hi> of the juſt and innocent; or the <hi>puniſhment</hi> of the wicked and evil doers.
+<note n="a" place="margin">Ezra. 7.26.</note> 
+               <hi>And whoſoever will not do the law of thy God, and the law of the king, let judgment be executed ſpeedily upon him; whether it be unto</hi>
+               <note n="b" place="margin">Deut. 21.22.</note> 
+               <hi>death, or to baniſhment, or to conſiſcation of goods, or to impriſonment.</hi> So that under this one word <hi>judgment,</hi> is contained the whole proceſs of the Law, from the firſt to the laſt.</p>
+            <p>And we may further obſerve, that when ever theſe two words, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Judgment</hi> and <hi>Juſtice,</hi> are joyned together in holy writ; by <hi>Judgment</hi> that part of the Law is underſtood, whereby notorious Malefactors, are puniſhed: and by <hi>Juſtice,</hi> that part, by which, the good and innocent, are defended, from the violence and op<g ref="char:EOLhyphen"/>preſſion of wicked men; both which are the Office of the Magiſtrate: and ſo much for the ſignification of the word.</p>
+            <p>The ſecond thing to be conſidered, <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <hi>is the great neceſsity of this Judgment in all Governments.</hi>
+            </p>
+            <p>
+               <hi>Judgment</hi> is an act of <hi>Juſtice,</hi> not onely lawfull, but
+<pb n="18" facs="tcp:55265:13"/>laudable, and neceſſary: For without <hi>judgment</hi> and <hi>juſtice</hi> there can be no ſociety. Theſe are the bonds of all com<g ref="char:EOLhyphen"/>munities, which knit, and keep the members of the <hi>Body<g ref="char:EOLhyphen"/>politic</hi> together; making them obedient, and ſerviceable to their <hi>Head:</hi> That ſuch as will not be perſwaded and allured by the ſweet voice of <hi>Mercy,</hi> ſhould be awed and terrified, by the ſevere and harſher voice of <hi>Judgment.</hi>
+            </p>
+            <p>
+               <hi>Impunity is a great temptation to villany.</hi>
+               <note place="margin">
+                  <hi>Remotâ ju<g ref="char:EOLhyphen"/>ſtitiâ quid ſunt regna niſi magna latroci<g ref="char:EOLhyphen"/>nia? S.</hi> Aug. <hi>de civit. Dei.</hi> Lib. 4. c. 4.</note> Without <hi>ju<g ref="char:EOLhyphen"/>ſtice</hi> and <hi>judgment;</hi> what are kingdoms but ſo many dens of theeves and robbers?</p>
+            <p>When <hi>Alexander</hi> the <hi>Great,</hi> had taken a pitifull poor <hi>Pirat,</hi> who was the Maſter but of one ſmall Ship, or Veſ<g ref="char:EOLhyphen"/>ſel; and had asked him, why he troubled the <hi>Sea?</hi> The <hi>Pirat,</hi> with an undaunted confidence, anſwers his queſtion by another, Why he troubled the <hi>World?</hi> And whe<g ref="char:EOLhyphen"/>ther it was not as lawfull for him, to rob with his one lit<g ref="char:EOLhyphen"/>tle Ship; as it was for him to plunder, and ſpoil the world, with his great Navy? Here indeed lay the dif<g ref="char:EOLhyphen"/>ference. He who had but one ſmall Veſſel was a <hi>Pirat;</hi> but <hi>He</hi> who had a great Navy, was a famous <hi>Conquerer,</hi> and a moſt <hi>renowned high</hi> and <hi>mighty Monarch.</hi>
+            </p>
+            <p>Thus ſmall miſdeeds and <hi>peity Larcinies,</hi> which are committed by mean or ſingle perſons, are taken for capital, and heinous crimes: He that ſteals a few ſheep, horſes, or cows, muſt reckon for them at the Gallows. Poor Rogues muſt be made examples of; and let them ſuffer as they have deſerved. <q rend="inline">But <hi>Prodigious Villanies, Murders, Rapes, Sacking and burning of Cities; deſtroy<g ref="char:EOLhyphen"/>ing, and laying waſt</hi> whole <hi>Countries; torrents of Chri<g ref="char:EOLhyphen"/>ſtian bloud,</hi> ſpil'd for the bare ſatisfaction of pride or luſt; with all thoſe horrid, unſpeakable miſchiefs, which are the curſed effects of ambition, war, and cruelty; muſt loſe their names, forſooth, commence virtues, and glorious conqueſts; and (which is worſt of all,) obtain impunity, becauſe abetted by power, and multitude.</q>
+            </p>
+            <pb n="19" facs="tcp:55265:13"/>
+            <p>If <hi>Great Alexander</hi> was —
+<q>
+                  <lg>
+                     <l>
+                        <hi>Terrarum fatale malum, fulmenque quod omnes</hi>
+                     </l>
+                     <l>
+                        <hi>Percuteret populos, pariterque &amp; ſidus iniquum</hi>
+                     </l>
+                     <l>
+                        <hi>Gentibus.</hi> —
+<note place="margin">
+                           <hi>Luean. Phar.</hi> 10.</note>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Earth's fatal miſchief, lightning dire, which rent</hi>
+                     </l>
+                     <l>
+                        <hi>All People, and a Star malevolent</hi>
+                     </l>
+                     <l>
+                        <hi>To Nations</hi>—</l>
+                  </lg>
+               </q>
+'Tis ſadly to be lamented that any king who intitles himſelf Chriſtian, ſhould account it his ho<g ref="char:EOLhyphen"/>nour or glory to imitate <hi>Him.</hi> What a miſchievous bloudy <hi>Comet,</hi> has for ſome years ſtruck terrour into our Neighbour Nations, threatning them with Ruine and Deſtruction? God grant we may eſcape that danger it portends, and in <hi>mercy</hi> to <hi>Chriſtendom</hi> diſſipate its fatal influence.</p>
+            <p>In the mean time. Where is <hi>Judgment?</hi> Where is <hi>Juſtice?</hi> Alas our Neighbours only know the good of them by their want:
+<q>
+                  <l>—<hi>Et virgo caede madentes</hi>
+                     <note place="margin">
+                        <hi>Ovid. Met.</hi> Lib. 1. Iſa. 5.7.</note>
+                  </l>
+                  <l>
+                     <hi>Ultima Coeleſtûm terras Aſtraea reliquit.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>They look for <hi>judgment,</hi> but behold <hi>oppreſsion,</hi> for <hi>righteouſneſs,</hi> but behold a <hi>cry. Judgment</hi> and <hi>Juſtice</hi> would rid the world of Tyranny, War, and confuſion; of the greateſt and moſt powerfull <hi>Theeves</hi> and <hi>Male<g ref="char:EOLhyphen"/>factors;</hi> without which neither our Religion, Lives, nor Poſſeſſions can be ſafe.</p>
+            <p>In brief, <hi>Judgment</hi> and <hi>Juſtice</hi> are ſo neceſſary that (as the Oratour ſpeaks) Malefactors themſelves cannot live without them; and this benefit they have by them,
+<note place="margin">
+                  <hi>De Off.</hi> Lib. 1.</note> that they are reſerved to a fair-legal-trial; that they are prevented in their wicked courſes, and reſtrained from the commiſſion of more nefarious crimes.</p>
+            <p>It is not cruelty, but neceſſity, and right reaſon, to cut off that member from the body, which would cor<g ref="char:EOLhyphen"/>rupt it.</p>
+            <pb n="20" facs="tcp:55265:14"/>
+            <p>Thirdly, <milestone type="tcpmilestone" unit="unspecified" n="3"/> We are to conſider <hi>what is required to the due adminiſtration of this Judgment.</hi> Which is a co<g ref="char:EOLhyphen"/>pious ſubject, the very life and ſoul of Government, about which Politicians have writ whole Volumes. But it may ſuffice for the preſent, to acquaint you with three things, which ſeem to be moſt requiſite, for the exerciſe of true <hi>Judgment.</hi> 1. <hi>Lawfull Authority.</hi> 2. <hi>Juſtice and Equity.</hi> 3. <hi>Prudence.</hi>
+            </p>
+            <p>Firſt, <hi>Lawfull Authority;</hi> Without which all <hi>Judg<g ref="char:EOLhyphen"/>ment</hi> is but mere uſurpation; and the execution of a <hi>Malefactor</hi> no better than murder. That <hi>Authority</hi> which makes the law, muſt execute the law; and as the law cannot be made without <hi>Lawfull Authority;</hi> ſo neither can it be executed without <hi>Lawfull Authority.</hi> In this caſe,
+<note n="a" place="margin">Matth. 26.25.</note> 
+               <hi>He that takes the ſword, ſhall periſh by the ſword.</hi>
+               <note n="b" place="margin">Ro. 12.19.</note> 
+               <hi>Vengeance belongs to God,</hi> and the ſupreme Magiſtrate, who is his repreſentative; no man therefore ought to avenge himſelf, or to uſurp the Office of a Judge, with<g ref="char:EOLhyphen"/>out lawfull Authority, or a juſt deputation from God, or his Vicegerent. He who thus offends is
+<note n="c" place="margin">1 Pet. 4.15.</note> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>a buſie-body in other mens matters,</hi> ſinneth both againſt God and againſt his neighbour. If he ſuffer for this bold uſurpation,
+<note place="margin">Exod. 2.14.</note> he may thank himſelf, and remember that ſharp repoof, <hi>Who made thee</hi> (being but a private man) <hi>a ruler and judge over us?</hi>
+            </p>
+            <p>Secondly, <hi>Juſtice and equity,</hi> are neceſſary to the due execution of <hi>judgment:</hi> without which <hi>judgment</hi> is but per<g ref="char:EOLhyphen"/>verſe and corrupt. There have been ſome, (and ſtill are) <hi>who turn judgment into wormwood and gall—and the fruits of righteouſneſs</hi> (that is <hi>juſtice</hi>) into Aconite or Hem<g ref="char:EOLhyphen"/>lock.
+<note place="margin">Amos 5.7.6.12.</note> This perverſion of <hi>judgment</hi> is bitter and deadly.</p>
+            <p>Now <hi>judgment</hi> may be perverted either,
+<note place="margin">Anſelmus de ſimilitud.</note> Firſt by <hi>fear,</hi> Secondly by <hi>covetouſneſs,</hi> Thirdly by <hi>inordinate love</hi> and <hi>partiality.</hi> Laſtly by <hi>hatred.</hi>
+            </p>
+            <p>Firſt by <hi>fear,</hi> which (as the Authour of the Book of
+<pb n="21" facs="tcp:55265:14"/>
+               <hi>Wiſdom</hi> writeth) is nothing elſe,
+<note place="margin">Wiſd. 17.12.</note> but <hi>the betraying of the ſuccours, which reaſon offereth;</hi> and makes men degenerate into poor, timorous, falſe-hearted Animals. A coward can neither be wiſe nor juſt, but will at once condemn himſelf, and betray the cauſe of the innocent. There<g ref="char:EOLhyphen"/>fore the <hi>Magiſtrate</hi> or <hi>Judge,</hi> muſt be couragious and ſtout; not fearing the faces of men. He is in the place of God,
+<note place="margin">2 Chron. 19.6.</note> and judgeth for God, who will defend him; why then ſhould he be afraid, <hi>of a man that ſhall die,</hi>
+               <note place="margin">Iſa. 51.12.</note> 
+               <hi>or of the ſon of man who ſhall be made as graſs? Fiat juſtitia, ruat mundus, the world ſhould ſooner be turned into its firſt Chaos, and confuſion,</hi> than a Magiſtrate or Judge from his courage and conſcience.</p>
+            <p>Secondly, <hi>by covetouſneſs.</hi> A fordid vice, neither be<g ref="char:EOLhyphen"/>coming the perſon, nor place of a Judge; he muſt ſcorn a bribe, (
+<note n="a" place="margin">2 Pet. 2.15.</note> 
+               <hi>that wages, or reward, of iniquity</hi>)
+<note n="b" place="margin">Deut. 16.19.</note> For <hi>a gift will blind the eyes of the wiſe, and pervert the words of the juſt. The love of money is the root of all evill, which while ſome have coveted after, they have erred from the faith;</hi> and then (by very good conſequence) from <hi>judgment</hi> and <hi>juſtice,</hi> the inſeparable companions of <hi>faith</hi> and a good <hi>conſcience.</hi>
+            </p>
+            <p>It is reported to the perpetual ſhame of <hi>Demoſthenes,</hi> by
+<note n="a" place="margin">
+                  <hi>Noct. Alt.</hi> Lib. 11. c. 9.</note> 
+               <hi>A. Gellius,</hi> that when he ſhould have pleaded the cauſe of the <hi>Athenians,</hi> againſt the <hi>Mileſians,</hi> he was <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and <hi>took a bribe to hold his peace.</hi> He pretended in<g ref="char:EOLhyphen"/>deed ſome diſeaſe or ſquincy in his throat; and therefore came muſled into the court; but, (as a witty <hi>Greek</hi> told him) it was not <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, not the <hi>ſquincy,</hi> but the <hi>gold,</hi> in his <hi>throat,</hi> that ſtoped his <hi>mouth.</hi> There was <hi>Bos in linguâ,</hi> as the Proverb is. In good earneſt, righteous <hi>judgment,</hi> and a <hi>bribe,</hi> will no more agree to<g ref="char:EOLhyphen"/>gether in the ſame mouth; than <hi>God,</hi> and <hi>Mammon,</hi> in the ſame ſervice and worſhip.</p>
+            <p>Thirdly, <hi>Judgment</hi> may be perverted, by <hi>love</hi> and
+<pb n="22" facs="tcp:55265:15"/>
+               <hi>partiality.</hi>
+               <note place="margin">Leges carent affectibus.</note> 
+               <hi>Juſtice</hi> is repreſented unto us in picture, with a veil over her eyes, to ſignifie that both <hi>juſtice,</hi> and <hi>judg<g ref="char:EOLhyphen"/>ment,</hi> ſhould be adminiſtred, without favour or affection. <hi>Exuit perſonam judicis, quiſquis amicum induit.</hi> So that a judge muſt not be <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<note n="b" place="margin">Levit. 19.15.</note> 
+               <hi>a reſpecter of the per<g ref="char:EOLhyphen"/>ſons of men;</hi> either by honouring the perſons of the mighty, or pitying the faces of the poor: becauſe
+<note n="c" place="margin">Prov. 18.5.</note> 
+               <hi>it is not good to accept the perſons of the wicked; or to overthrow the righteous in judgment.</hi> Not good? No, there is a <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in that <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> to teach us that it is <hi>abominable,</hi> and <hi>pernicious.</hi> God himſelf complains of it.
+<note n="d" place="margin">Pſ. 82.2.</note> 
+               <hi>How long will ye judge unjuſtly,</hi> and accept the perſons of the wicked? It ſeems by this <hi>how long,</hi> that God is wearied and grieved with ſuch kind of judgment. Hence good King <hi>Jehoſhaphat</hi> (according to his name, <hi>the Lord Judgeth</hi>) thus ſtrictly chargeth his judges.
+<note n="e" place="margin">2 Chron. 19.6, 7.</note> 
+               <hi>Take heed what ye do, for ye judge not for man, but for the Lord, who is with you in the judgment.</hi>
+               <note n="e" place="margin">2 Chron. 19.6, 7.</note> 
+               <hi>Wherefore now let the fear of the Lord be upon you, take heed and do it; for there is no iniquity with the Lord our God, nor reſpect of perſons, nor taking of gifts.</hi>
+            </p>
+            <p>Laſtly, <hi>judgment</hi> may be perverted by <hi>hatred.</hi> Now hatred is oppoſed to that charitable pity, and compaſſion, which ſhould be in one man towards another; more eſpe<g ref="char:EOLhyphen"/>cially in the chief Magiſtrate, or his repreſentative the Judge. For he is the head of the body Politic; and who ever hated his own body,
+<note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Ho. Odyſ. <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> or any member of it? He is the Father of his people; and cannot well hate his own chil<g ref="char:EOLhyphen"/>dren. Hatred is a brutiſh affection, not only below, but againſt common humanity. <hi>Timon</hi> ſurnamed the <hi>Man-hater</hi> was a Prodigy, and a reproach to mankind. Our moſt gracious God forbids it,
+<note n="f" place="margin">Levit. 19.17.</note> 
+               <hi>Thou ſhalt not hate thy brother in thine heart.</hi> Thy brother, that is any man, although he be thine enemie: Thou mayſt, nay muſt, reprove, re<g ref="char:EOLhyphen"/>buke, and endeavour to reclaim him, from his evil conver<g ref="char:EOLhyphen"/>ſation; and the Magiſtrate is to correct, and puniſh him
+<pb n="23" facs="tcp:55265:15"/>for his offences; but hate him he muſt not.
+<note n="g" place="margin">1 John 3.15.</note> 
+               <hi>For he who hateth his brother is a murderer; and ye know that no mur<g ref="char:EOLhyphen"/>derer hath eternal life abiding in him.</hi> So much for the ſecond thing required to the due adminiſtration of <hi>judg<g ref="char:EOLhyphen"/>ment.</hi>
+            </p>
+            <p>Thridly, <hi>Prudence</hi> is neceſſary for the due adminiſtration of <hi>judgment;</hi> without which it would be <hi>raſh and unadvi<g ref="char:EOLhyphen"/>ſed.</hi> A Magiſtrate ſhould be prudent.
+<note place="margin">Job. 29.16.</note> And very aptly our <hi>Engliſh</hi> word <hi>King,</hi> is the ſame with the <hi>Saxon</hi> Cyning, which is knowing or wiſe. The <hi>Egyptian</hi> Hieroglyphic for <hi>legiſlative</hi> power, was <hi>Oculus in Sceptro, an eye in the top of a Scepter.</hi> An eye that could pierce into the moſt dark and perplex receſſes of a cauſe; that could find out every crooked and blind corner in it.
+<note place="margin">Prov. 20.8.</note> 
+               <hi>A king who ſitteth in the throne of judgment, ſcattereth away all evil with his eyes:</hi> that is, no evil or miſchief, can lie hid, ſo cunningly and cloſe in a matter or cauſe, but his eyes will find it out, and ſcatter it, as the bright beams of the Sun do foggs and miſts. As the King's eyes are quick and piercing to diſcern what is obſcure and intricate;
+<note place="margin">Prov. 16.10.</note> ſo his lips are Oracles to determin what is lawfull and right. <hi>A divine ſentence or oracle is in the lips of a king, and his mouth tranſ<g ref="char:EOLhyphen"/>greſſeth not in judgment.</hi>
+            </p>
+            <p>We cannot but take notice of that <hi>ſagacity, ſubtilty,</hi> and <hi>accuteneſs</hi> of <hi>judgment,</hi> which God (in whom are hid all the treaſuries of wiſdom and knowledge) ſometimes vouchſafeth unto Kings (whether good or bad) for the determining of ſuch difficult and perplex cauſes, as are brought before them.</p>
+            <p>That ſentence which wiſe King <hi>Solomon</hi> gave in the caſe between the two harlots, is well known.
+<note place="margin">1 Kings c. 3.</note>
+               <note place="margin">
+                  <hi>Ariopharnes</hi> King of <hi>Thrace. Diod. Sic.</hi> Lib. 20. <hi>Claud. Caeſar. vid. Suet.</hi> c. 15.</note> I could pro<g ref="char:EOLhyphen"/>duce many more; but ſhall at preſent, only mention that famous ſentence which another <hi>Solomon</hi> (or <hi>Solyman</hi> the Magniſicent) gave in the caſe, between a poor <hi>Chriſtian</hi> and a cruel <hi>Jew.</hi>
+            </p>
+            <pb n="24" facs="tcp:55265:16"/>
+            <p>The poor <hi>Chriſtian,</hi> wanting a conſiderable ſum of money, to redeem his ſon from ſlavery; came to the <hi>Jew</hi> to borrow it of him, for ſuch a time, and for ſo much or more intereſt, than the <hi>Jew</hi> could reaſonably require. But no intereſt would ſatisfie that hard-hearted extor<g ref="char:EOLhyphen"/>tioner; but ſo many ounces of the <hi>Chriſtian</hi>'s fleſh. The <hi>Chriſtian</hi> (in his great neceſſity) conſents, receives the money, redeems his ſon; and at the ſet time, brings the <hi>Jew</hi> his <hi>Principle,</hi> but refuſeth to pay that unconſcion<g ref="char:EOLhyphen"/>able <hi>biting uſury</hi> which the <hi>Jew</hi> demanded. The <hi>Jew</hi> complaines to the Emperour <hi>Solyman,</hi> he fourthwith commands the <hi>Chriſtian</hi> to be brought before him; calls for a raſour, and bids the <hi>Jew</hi> to cut off ſo many ounces of the <hi>Chriſtian</hi>'s fleſh, as he had bargained with him for; but with all told him that if he cut off one dram more or leſs than his bargain was, he ſhould certainly die for it.</p>
+            <p>The <hi>Jew</hi> conſidering the danger of the ſentence, thought it much better to loſe his intereſt than venture his life, and ſo the <hi>Chriſtian</hi> eſcaped his cruelty. Thus you ſee that <hi>prudence</hi> is neceſſary for the due adminiſtration of <hi>judgment,</hi> eſpecially in difficult, and intricate matters.</p>
+            <p>Fourthly, <milestone type="tcpmilestone" unit="unspecified" n="4"/> We are to conſider thoſe <hi>great bleſsings and benefits which will both accompany and follow the due ad<g ref="char:EOLhyphen"/>miniſtration and execution of this judgment.</hi> Bleſſings ſo many, great, and deſirable, that they can neither be num<g ref="char:EOLhyphen"/>bred nor expreſſed. For whatſoever bleſſings either piety, or truth, or peace, or liberty, or innocency, or wiſe<g ref="char:EOLhyphen"/>dom and knowledge, or good government, and good lawes, can beſtow upon a Nation, are all the happy effects of <hi>judgment.</hi>
+            </p>
+            <p>
+               <hi>Judgment</hi> advanceth piety; preſerveth truth; pro<g ref="char:EOLhyphen"/>cures and ſetleth peace and ſafety; boundeth, and ſixeth prerogative and priveledge; aſſerts, and vindicates our juſt liberty, and property; protects innocency; encou<g ref="char:EOLhyphen"/>rageth ſtudy, and learning; executes good laws; ſecures
+<pb n="25" facs="tcp:55265:16"/>our perſons from violence, and our eſtates from plunder. In fine
+<note n="a" place="margin">Prov. 19.4.</note> 
+               <hi>judgment eſtabliſheth the land,</hi> and defends it againſt all forrain invaſion, all inteſtine conſpiracy, and rebellion. Or if you would have more, The due execu<g ref="char:EOLhyphen"/>tion of <hi>judgment</hi> and <hi>juſtice,</hi> will divert God's <hi>judgments</hi> from us.
+<note n="b" place="margin">Pſal. 106.30.</note> 
+               <hi>Phineas</hi> ſtood up and executed <hi>judgment,</hi> and the plague was ſtayed.</p>
+            <p>If <hi>judgment</hi> had been executed in the ſtreets of <hi>Jeru<g ref="char:EOLhyphen"/>ſalem;</hi> God would have ſpared that City.
+<note place="margin">Jer. 5.1.</note> So that if either we would obtain <hi>mercies,</hi> or remove <hi>judgments;</hi> the next, and beſt way is, that the Supreme Magiſtrate, and all who are put in authority under him, do truly and in<g ref="char:EOLhyphen"/>differently adminiſter <hi>judgment</hi> and <hi>juſtice,</hi> to the puniſh<g ref="char:EOLhyphen"/>ment of wickedneſs and vice; and to the maintenance of God's true Religion and virtue.</p>
+            <p>I ſhall conclude, with a few notes, or points; which I have obſerved to be moſt agreeable with, and conſonant to this Song of <hi>Mercy and Judgment.</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+            </p>
+            <p>Firſt, This right way of Government, namely, <hi>The due adminiſtration, or execution of laws, in mercy and judg<g ref="char:EOLhyphen"/>ment; is a moſt fit and proper ſtudy, and meditation, for all Kings and Magiſtrates. David</hi> here ſings of <hi>mercy and judg<g ref="char:EOLhyphen"/>ment.</hi> But the <hi>Hebrew</hi> word <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is from <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which doth not only ſignifie to <hi>ſing,</hi> but alſo to <hi>meditate, mind,</hi> and be intent upon a matter. So that <hi>David</hi> ſtudies and meditates, and is intent upon the laws of his Government.</p>
+            <p>It was God's command that the King, who was to be ſet over his people,
+<note place="margin">Deut. 17.18.</note> 
+               <hi>ſhould write for himſelf a copy of his law in a book, and that he ſhould read in it all the days of his life, that he might learn to fear the Lord his God.</hi> Thus to ſtudy and meditate upon the laws of God and the laws of his own Government; ſhould be the chiefeſt care and exer<g ref="char:EOLhyphen"/>ciſe of every good Magiſtrate.</p>
+            <p>Hence Kings are cal'd <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<note place="margin">Hom. Il. <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> that is ſuch as are
+<pb n="26" facs="tcp:55265:17"/>
+               <hi>converſant and well verſed in laws:</hi> A Magiſtrate may well be ignorant of ſome Arts and Sciences; which are leſs neceſſary for his Government; but by no means of thoſe laws, by which he is to Govern his people.</p>
+            <p>Secondly, <milestone type="tcpmilestone" unit="unspecified" n="2"/> I obſerve, that <hi>Monarchy</hi> (the firſt, and beſt of Governments in the world) <hi>whereby Magiſtracy is pre<g ref="char:EOLhyphen"/>ſerved in its original power and dignity; and good laws are enacted, and executed by mercy and judgment; is from God.</hi> This is clear from the Text; <hi>I will ſing of mercy and judgment.</hi> Here <hi>David</hi> as a <hi>Monarch</hi> ſings, that is ſtudies, meditates, and is intent upon <hi>mercy</hi> and <hi>judgment,</hi> as the proper buſineſs and employment of his Govern<g ref="char:EOLhyphen"/>ment. And then he adds <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>unto thee O Lord will I ſing a Pſalm of praiſe and thankſgiving;</hi> who haſt not only exalted me to the Throne and Scepter of <hi>Judah;</hi> but haſt alſo taught me, the beſt way of Ruling thy people, by <hi>mercy</hi> and <hi>judgment.</hi>
+            </p>
+            <p>Thus many both <hi>Jews</hi> and <hi>Chriſtians</hi> interpret this verſe, as being moſt conſonant to, and agreeable with the ſcope of the <hi>Pſalm.</hi>
+            </p>
+            <p>
+               <hi>Monarchy then is from God, and not from the people,</hi> as thoſe two grand factions, of <hi>Popery,</hi> and <hi>Presbytery,</hi> would peſwade their Proſelytes. The one to exalt the <hi>Pope</hi> above all that is called God; and the other to magnifie <hi>themſelves.</hi> And we may obſerve, that how contrary ſoever, thoſe two factions are in other reſpects; yet they both agree in oppoſing the true original and power of the ſupreme Magiſtrate.</p>
+            <p>Thus, that our <hi>Bleſſed Saviour</hi> might be crucified, <hi>Pilate</hi> and <hi>Herod</hi> were made friends; and that <hi>Monarchy</hi> may be ſuppres'd, or dethron'd; theſe <hi>Pilats</hi> and <hi>Herods, Popes</hi> and <hi>Presbyterians, Romans</hi> and <hi>Jews,</hi> (as fitly match'd and pair'd as can be) <hi>Bithus cum Bachio;</hi>
+               <note place="margin">Sueton.</note> joyn hands and are agreed. I need not tell you what their deſigns and practiſes have been or are, becauſe they are
+<pb n="27" facs="tcp:55265:17"/>of every days remembrance. If nothing had been ſaid, writ, or printed of what they have done, or this Nation hath ſuffered; yet thoſe wounds and ſcars which their ſwords have made both in Church and State, are ſtill ſo viſible, that he who runs may read them.</p>
+            <p>Certainly it muſt needs be ſomething very excellent or divine which theſe men hate and perſecute. So indeed it is; no leſs than <hi>Sacroſancta Regum Majeſtas,</hi> the <hi>ſacred Majeſtie of Kings;</hi> which is acknowledged, by the
+<note n="a" place="margin">Prov. 8.15. Dan. 4.25. Rom. 13.1.</note> 
+               <hi>Scri<g ref="char:EOLhyphen"/>ptures,</hi> by
+<note n="b" place="margin">Juſt. Mart. Tertul. Iron.</note> 
+               <hi>Chriſtian Apologiſts, Fathers, Councils,</hi> nay even
+<note n="c" place="margin">Hom. Heſiod. Eurip. Plat.</note> 
+               <hi>Heathen writers,</hi> to have a divine character, or ſtamp ſet upon it, which was never prophaned nor vilified in the world, untill <hi>Pope Hildebrand,</hi> or <hi>Gregory</hi> the ſeventh, ſat down in that infallible chair, of the ſcornfull, and diſo<g ref="char:EOLhyphen"/>bedient.</p>
+            <p>This ſacred Majeſty of Kings is a Chaſe, or prey, fit for theſe <hi>Nimrods</hi> to hunt after and deſtroy; be<g ref="char:EOLhyphen"/>cauſe they know that Monarchy is the beſt ſafeguard to mankind, both againſt the great <hi>furious Bulls</hi> of Ty<g ref="char:EOLhyphen"/>rannical <hi>Popery,</hi> and the leſſer <hi>giddy cattle</hi> of Schiſmatical <hi>Presbytery.</hi>
+            </p>
+            <p>Kings are, by the Poet, truly called
+<note n="a" place="margin">Hom. Il. ſs. 445. <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which very well agrees, with that of our Royal Prophet. <hi rend="sup">b</hi> 
+               <hi>Sons of the Moſt High.</hi>
+               <note place="margin">Pſal. 82.6.</note> And yet there are ſome other <hi>Diotre<g ref="char:EOLhyphen"/>phees</hi> (not Sons of the Moſt High, but ſons of earth) who (as Saint
+<note n="c" place="margin">Epiſt. 3.9.</note> 
+               <hi>John</hi> writes of them) are <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>lovers of ſupremacy.</hi> Theſe proud ones, kick at Monarchy; ſet their cloven feet upon the necks of Kings and Emperours: Whoſe ſacred Perſons <hi>(in ordine ad ſpiri<g ref="char:EOLhyphen"/>tualia,</hi> that is, <hi>for the advancing of ſpiritual wickedneſs, and the Kingdom of Antichriſt</hi>) they moſt impiouſly cenſure, excommunicate, depoſe and murder, which is moſt abomi<g ref="char:EOLhyphen"/>nable down-right Sacrilege; and the cauſe of the greateſt miſchiefs and villanies that have been committed hitherto in the Chriſtian world; and God only knows what fur<g ref="char:EOLhyphen"/>ther
+<pb n="28" facs="tcp:55265:18"/>troubles and dangers theſe <hi>Peſts</hi> may bring upon us.</p>
+            <p>Thirdly, <milestone type="tcpmilestone" unit="unspecified" n="3"/> I obſerve <hi>That mercy and judgment</hi> that is,
+<note n="a" place="margin">Lex Chriſti neminem pri<g ref="char:EOLhyphen"/>vat jure domi<g ref="char:EOLhyphen"/>nioque ſuo.</note> 
+               <hi>the power of life and death, doth of right belong to the ſupreme Chriſtian Magiſtrate, as well as to the Jewiſh, or Heathen.</hi> This truth we maintain againſt a generation of unreaſon<g ref="char:EOLhyphen"/>able men; who have the face and confidence to affirm, that it is not
+<note n="b" place="margin">
+                  <hi>Pont. cont. Haer. Sleid. Com.</hi> Lib. 10.</note> lawfull for a <hi>Chriſtian</hi> to be a Magiſtrate, a King, or Prince; or to have the power of the ſword. That <hi>Chriſtians</hi> ſhould have no Courts of Judicature, no Laws, Statutes, Pleadings; and that it is not lawfull for them to take an Oath.
+<note n="c" place="margin">Non eripit mortalia qui regna dat cae<g ref="char:EOLhyphen"/>leſtia.</note> As though that which is neceſ<g ref="char:EOLhyphen"/>ſary to the well being of mankind, was not as lawfull for <hi>Chriſtians,</hi> as for <hi>Jews</hi> or <hi>Heathens.</hi>
+            </p>
+            <p>I would ask theſe grand <hi>Polititians,</hi> by what law are <hi>Chriſtians</hi> exempt, from Governing, or being governed! Let them tell us if they can. This I am ſure of, that <hi>Power</hi> and <hi>Juriſdiction,</hi> are founded upon the <hi>Law</hi> of <hi>Nature,</hi> for the benefit of mankind; as may be proved, by a plain or manifeſt induction.</p>
+            <p>No man can live happily without the help of others in ſociety; no ſociety can ſtand, without ſome Laws or Government; no Laws or Government can ſubſiſt with<g ref="char:EOLhyphen"/>out Power to defend them, to reward the good, and puniſh evill doers. And we are taught that the Magi<g ref="char:EOLhyphen"/>ſtrate beareth not the ſword <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>in vain,</hi>
+               <note place="margin">Rom. 13.4.</note> or not <hi>without warrant or divine commiſsion: for he is Gods Miniſter, a revenger to execute wrath, upon him that doeth evil.</hi>
+            </p>
+            <p>Thoſe then (whoſoever they be) whether in the num<g ref="char:EOLhyphen"/>ber of <hi>Libertines,</hi> or <hi>Anabaptiſts,</hi> or any other <hi>Name,</hi> or <hi>Sect;</hi> who deny the <hi>Chriſtian Magiſtrate,</hi> his juſt power and right to defend himſelf, his laws, and people, from contempt and violence: do in effect deſtroy all Chriſtian ſocieties; and would introduce <hi>Anarchy</hi> and <hi>Confuſion</hi> both into Church and State. To theſe, I ſhall only men<g ref="char:EOLhyphen"/>tion that of Saint <hi>Peter;</hi>
+               <note place="margin">2. Pet. 2.19.</note> 
+               <hi>Whilſt they promiſe men liberty,
+<pb n="29" facs="tcp:55265:18"/>they themſelves are the ſervants of corruption or perdition.</hi>
+            </p>
+            <p>Fourthly, I obſerve <hi>that the due adminiſtration, <milestone type="tcpmilestone" unit="unspecified" n="4"/> or exe<g ref="char:EOLhyphen"/>cution of laws in mercy and judgment, is of great concern to a Nation,</hi> and eſpecially to be regarded by the Magiſtrate.
+<note place="margin">Prov. 17.15.</note> For <hi>he who juſtifies,</hi> that is, acquits <hi>the wicked,</hi> and he who condemns the juſt, are both of them abomination. God by his Prophets denounceth woe againſt them,
+<note place="margin">Deut. 27.19. Iſa. 5.23.10.1. Mic. 2.1. Hab. 2.12.</note> 
+               <hi>who juſtifie the wicked for reward, and take away the righteouſneſs of the righteous from him.</hi> Who render thoſe tribunals, from whence men expect a relief for their injuries, the ſeats of <hi>violence</hi> and <hi>oppreſsion.</hi>
+            </p>
+            <p>Fifthly, I obſerve, <hi>that judgment, <milestone type="tcpmilestone" unit="unspecified" n="5"/> or the executing of ſuch deſerved penalties as the law requireth, upon the tranſgreſſors of it; is not perſecution as our phanatical Schiſ<g ref="char:EOLhyphen"/>matics would make the world believe.</hi>
+            </p>
+            <p>Our preſent diviſions and diſſentions, are ſtill (God knows) very ſad and great,
+<note place="margin">Pſal. 57.4, 5.</note> 
+               <hi>our ſouls</hi> (as the <hi>Pſalmiſt</hi> complains) <hi>are amongſt Lyons; and we lie in the midſt of the ſons of men, who are</hi>
+               <note n="a" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>Bouteſcus, and Incendiaries; whoſe teeth are ſpears and arrows, and their tongues ſharp ſwords: who ſpeak evil of Dignities;</hi>
+               <note place="margin">Jude 8. Pſal. 89.51.</note> 
+               <hi>reproach and ſlander the footſteps of Gods Anointed;</hi> hate and perſecute that very Government, and thoſe laws, by which they live in peace and plenty. With theſe our Eccleſiaſtical laws, are Antichriſtian; and our Civil laws, Tyrannical. If the Magiſtrate deal mercifull with them; they will tell you, they are not beholding to him, becauſe it is God, who reſtraineth his power, that he ſhould not touch the Saints. But if the law have its due courſe againſt them; then they cry out <hi>Perſecution, Perſecution.</hi> Theſe are they, <hi>Qui nec remedium ferre peſſunt nec morbum:</hi> Whom nei<g ref="char:EOLhyphen"/>ther <hi>mercy</hi> nor <hi>judgment</hi> will reclaim.</p>
+            <p>May not we very reaſonably ſuſpect, what it is they would be at? Or can we ſo ſoon forget what we have felt, and ſtill have juſt cauſe to fear?
+<note n="a" place="margin">Pſal. 11.3.</note> 
+               <hi>If the Foundations be
+<pb n="30" facs="tcp:55265:19"/>deſtroyed, what can the Righteous do?</hi> That is, if our <hi>Govern<g ref="char:EOLhyphen"/>ment</hi> and <hi>Governours,</hi> if our <hi>Religion, Laws</hi> and <hi>Peace,</hi> (which are the <hi>Foundations</hi> of our <hi>Nation</hi>) be deſtroyed? What can the <hi>Church of God</hi> (here planted amongſt us) do?</p>
+            <p>My <hi>Lords;</hi> and you the <hi>Worthies of the Honourable Bench:</hi> It is not only your duty, but your intereſt, to en<g ref="char:EOLhyphen"/>deavour the preſervation, of theſe <hi>Foundations</hi> unto us. For in their ſafty and peace, ye ſhall have comfort and peace; and obtain that reſpect and honour, which your Piety, Wiſdom, Juſtice and Care, have merited both from our Church and State. For this you ſhall be called the repairers of our breaches,
+<note place="margin">Iſa. 58.12.</note> and the reſtorers of peaceable paths for us to dwell in. And may the God of <hi>Mercy</hi> and <hi>Judgment</hi> ſtill proſper this good work under your hands, O let him proſper this your handy work.</p>
+            <p>Laſtly, I obſerve: <hi>That under a Government ſo well com<g ref="char:EOLhyphen"/>poſed, and ſetled; where Laws are Enacted, and executed by mercy and judgment; there the people are happy; and have good cauſe of rejoycing and praiſing God, for that mercy and judgment by which they are Governed.</hi>
+            </p>
+            <p>And if ever Nation had cauſe to rejoyce for ſuch happi<g ref="char:EOLhyphen"/>neſs, or to ſing of <hi>mercy</hi> and <hi>judgment,</hi> we now have.</p>
+            <p>Our gracious God hath been pleaſed (even beyond our hopes) to looſe the bands, and break the yoke of that Rebellious Tyranny and oppreſſion, under which our Church and State (not long ſince) ſo miſerably groaned. <hi>He hath turned our captivity as the rivers in the ſouth:</hi>
+               <note place="margin">Pſal. 126.4.</note> and refreſhed us with the delightfull ſtreams of peace and juſtice. He hath reſtored our gracious and mercifull King unto us.
+<note n="a" place="margin">Iia. 1.16.</note> 
+               <hi>He hath given our Judges as at firſt, and our Counſellours as the beginning,</hi> and we no longer dwell
+<note n="b" place="margin">Pſal. 137.4.</note> 
+               <hi>in a ſtrange land,</hi> where we could not <hi>ſing the Lord's ſong,</hi> even this ſong of <hi>mercy</hi> and <hi>judgment.</hi>
+            </p>
+            <p>What now can hinder, but that <hi>judgment</hi> ſhould flow
+<pb n="31" facs="tcp:55265:19"/>down like waters, and righteouſneſs be as a mighty ſtream? Nothing ſure: unleſs our great unthankfulneſs to God for theſe <hi>mercies;</hi> and our diſobedience unto our lawfull Soveraign. O let not our ingratitude or perfidious diſ<g ref="char:EOLhyphen"/>loyalty deprive us of theſe bleſſings; but let our mouths be filled with the high praiſes of God, and our hearts with duty that we may live worthy of that religious worſhip, truth, peace and happineſs we enjoy; and never forget thoſe great deliverances, which he hath vouchſafed unto his King, and people.</p>
+            <p>
+               <hi>Oh that men would therefore praiſe the Lord for his good<g ref="char:EOLhyphen"/>neſs; and declare the wonders he hath done amongſt us.</hi>
+               <note place="margin">Pſal. 107.31.32.</note> 
+               <hi>That they would exalt him in the congregation of the people, and praiſe him in the aſſembly of the elders,</hi>
+               <note n="a" place="margin">Pſal. 136.23.26.</note> 
+               <hi>who remembred us in our low eſtate and delivered us from our enemies, for his mercy endureth for ever.</hi>
+            </p>
+            <p>And let us pray, that no jarring, harſh, untunable, <hi>diſ<g ref="char:EOLhyphen"/>cord,</hi> or <hi>diviſion;</hi> may ever diſcompoſe, that excellent <hi>harmony</hi> of Government which we have both in Church and State; but that this Song, of <hi>Mercy</hi> and <hi>Judgment,</hi> may be heard in our Land, from Generation to generation. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
